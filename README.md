@@ -4,19 +4,19 @@ Temperature-and-Humidity-Sensor-with-LED-Indicator
 
 LCD to Arduino:
 --
-- GND = GND
-- VCC = 5V
-- SDA = Analog Pin A4
-- SCL = Analog Pin A5
+- GND => GND
+- VCC => 5V
+- SDA => Analog Pin A4
+- SCL => Analog Pin A5
 
 DHT11 to Arduino:
 --
-- VCC = 5V
-- GND = GND
-- Data = Digital Pin 2
+- VCC => 5V
+- GND => GND
+- Data => Digital Pin 2
 
 LED to Arduino:
 --
-- Blue LED = Digital Pin 3
-- Yellow LED = Digital Pin 4
-- Red LED = Digital Pin 5
+- Blue LED => Digital Pin 3
+- Yellow LED => Digital Pin 4
+- Red LED => Digital Pin 5
